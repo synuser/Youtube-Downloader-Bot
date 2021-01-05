@@ -1,4 +1,4 @@
 
 TgCrypto
-https://github.com/pyrogram/pyrogram/archive/asyncio.zip
+https://github.com/X-Gorn/pyrogram/archive/asyncio-dev.zip
 git+https://github.com/ytdl-org/youtube-dl
